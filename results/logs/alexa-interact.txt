@@ -1,0 +1,480 @@
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.d6f9ab8b-d21f-40c0-921f-a9dfa2c99601',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.7f92edb1-c679-4bec-ba7f-769b1afae4bd',
+     attributes: {} } }
+interact exe costs:  5511 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.d6f9ab8b-d21f-40c0-921f-a9dfa2c99601","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.7f92edb1-c679-4bec-ba7f-769b1afae4bd","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.f25f42ec-0da1-4365-8ba7-a1e297f74fd8',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.158be406-7502-41b2-b40b-27f1b1e31806',
+     attributes: {} } }
+interact exe costs:  5429 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.f25f42ec-0da1-4365-8ba7-a1e297f74fd8","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.158be406-7502-41b2-b40b-27f1b1e31806","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c7d14507-d7d2-484d-8367-f13d1e1dda1c',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.a38297f1-ff0c-4edd-8ed1-543dbe6d7ba7',
+     attributes: {} } }
+interact exe costs:  5412 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.c7d14507-d7d2-484d-8367-f13d1e1dda1c","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.a38297f1-ff0c-4edd-8ed1-543dbe6d7ba7","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.d3da64b5-dc15-47f5-a25c-97cb89e8996f',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.b2494fc2-41eb-4c04-a331-094267c8d952',
+     attributes: {} } }
+interact exe costs:  5490 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.d3da64b5-dc15-47f5-a25c-97cb89e8996f","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.b2494fc2-41eb-4c04-a331-094267c8d952","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.154fc02a-1a35-4c53-a452-0f6793c283da',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.b26a765f-f06a-482a-8941-7eba25fd2cc4',
+     attributes: {} } }
+interact exe costs:  5629 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.154fc02a-1a35-4c53-a452-0f6793c283da","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.b26a765f-f06a-482a-8941-7eba25fd2cc4","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.3f987e17-c6d4-4168-b897-474ff7fc9fa6',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.288ef92b-dfd0-4085-9b88-5fc1483f8e71',
+     attributes: {} } }
+interact exe costs:  5444 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.3f987e17-c6d4-4168-b897-474ff7fc9fa6","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.288ef92b-dfd0-4085-9b88-5fc1483f8e71","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.f7110147-d0b4-4568-9da9-9be54ed33e24',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.9609500b-89cd-47bb-ad39-a965db138ccd',
+     attributes: {} } }
+interact exe costs:  5318 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.f7110147-d0b4-4568-9da9-9be54ed33e24","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.9609500b-89cd-47bb-ad39-a965db138ccd","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.2447789c-65a1-4c6e-a0f1-463288b37d2f',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.2fc06354-77b4-415e-bd15-a9dadfdee72c',
+     attributes: {} } }
+interact exe costs:  5422 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.2447789c-65a1-4c6e-a0f1-463288b37d2f","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.2fc06354-77b4-415e-bd15-a9dadfdee72c","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.6a7267df-dcad-4154-bf15-ea1f68f07015',
+     timestamp: '2021-03-11T11:12:33Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.b1dff936-db16-4197-89b5-822f80513b3f',
+     attributes: {} } }
+interact exe costs:  5299 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.6a7267df-dcad-4154-bf15-ea1f68f07015","timestamp":"2021-03-11T11:12:33Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.b1dff936-db16-4197-89b5-822f80513b3f","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.38145c9f-9bc6-456e-ac36-d6488cb9efa0',
+     timestamp: '2021-03-11T11:12:34Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.6a9299ce-e6ca-40ae-99d9-7871e94c181e',
+     attributes: {} } }
+interact exe costs:  5446 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.38145c9f-9bc6-456e-ac36-d6488cb9efa0","timestamp":"2021-03-11T11:12:34Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.6a9299ce-e6ca-40ae-99d9-7871e94c181e","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.750689e3-1c10-4bdd-96f5-58767a510b2e',
+     timestamp: '2021-03-11T11:12:54Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.12dce39d-f99e-459a-bdbe-ef03d13a4884',
+     attributes: {} } }
+interact exe costs:  5488 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.750689e3-1c10-4bdd-96f5-58767a510b2e","timestamp":"2021-03-11T11:12:54Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.12dce39d-f99e-459a-bdbe-ef03d13a4884","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.7678f86e-c6ab-4e44-a8f2-30e09d3fbc48',
+     timestamp: '2021-03-11T11:12:54Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.0afc7d7f-a827-481b-a0f7-612d986c6a5f',
+     attributes: {} } }
+interact exe costs:  5347 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.7678f86e-c6ab-4e44-a8f2-30e09d3fbc48","timestamp":"2021-03-11T11:12:54Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.0afc7d7f-a827-481b-a0f7-612d986c6a5f","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.9993378a-15c6-4204-bcc3-f23aed5572b2',
+     timestamp: '2021-03-11T11:12:54Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.8b7b8eb3-2c56-40d9-848e-58d2a4f16f19',
+     attributes: {} } }
+interact exe costs:  5332 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.9993378a-15c6-4204-bcc3-f23aed5572b2","timestamp":"2021-03-11T11:12:54Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.8b7b8eb3-2c56-40d9-848e-58d2a4f16f19","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.01baef71-a1c6-41f1-b7c7-dff6abd41238',
+     timestamp: '2021-03-11T11:12:54Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.571ad73b-00c1-4514-882f-bf2b4e50fdac',
+     attributes: {} } }
+interact exe costs:  5514 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.01baef71-a1c6-41f1-b7c7-dff6abd41238","timestamp":"2021-03-11T11:12:54Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.571ad73b-00c1-4514-882f-bf2b4e50fdac","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.6e0b7098-905c-4499-82bf-9deb466c3e85',
+     timestamp: '2021-03-11T11:12:55Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.a54910ed-1bff-4df2-a720-bb31698a0e04',
+     attributes: {} } }
+interact exe costs:  5665 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.6e0b7098-905c-4499-82bf-9deb466c3e85","timestamp":"2021-03-11T11:12:55Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.a54910ed-1bff-4df2-a720-bb31698a0e04","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.b37d34fc-3dbc-4c78-a18d-ab7846816e91',
+     timestamp: '2021-03-11T11:12:55Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.df7cc4e9-9ddf-4c88-a078-bde3d3c4b5fd',
+     attributes: {} } }
+interact exe costs:  5594 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.b37d34fc-3dbc-4c78-a18d-ab7846816e91","timestamp":"2021-03-11T11:12:55Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.df7cc4e9-9ddf-4c88-a078-bde3d3c4b5fd","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.6bb5da31-994e-49e7-895d-0a1bd8ac7213',
+     timestamp: '2021-03-11T11:12:55Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.ff9e26d4-6df5-4871-a9e7-e73b6e19b065',
+     attributes: {} } }
+interact exe costs:  5465 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.6bb5da31-994e-49e7-895d-0a1bd8ac7213","timestamp":"2021-03-11T11:12:55Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.ff9e26d4-6df5-4871-a9e7-e73b6e19b065","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.662b9730-239a-4e8a-9e5c-3a8818272e7c',
+     timestamp: '2021-03-11T11:12:55Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.d1520955-7dda-4070-94ef-51083ca017b9',
+     attributes: {} } }
+interact exe costs:  5525 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.662b9730-239a-4e8a-9e5c-3a8818272e7c","timestamp":"2021-03-11T11:12:55Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.d1520955-7dda-4070-94ef-51083ca017b9","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.1c90d5e8-a71b-4e4b-a727-084f2ea3fceb',
+     timestamp: '2021-03-11T11:12:55Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.523cfd3e-cfef-4205-b324-0801048ff840',
+     attributes: {} } }
+interact exe costs:  5495 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.1c90d5e8-a71b-4e4b-a727-084f2ea3fceb","timestamp":"2021-03-11T11:12:55Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.523cfd3e-cfef-4205-b324-0801048ff840","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.f991907d-824e-4093-b00b-511e6cb410fe',
+     timestamp: '2021-03-11T11:12:55Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.87c0c68c-943b-49ff-a928-8b523a0d8966',
+     attributes: {} } }
+interact exe costs:  5566 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.f991907d-824e-4093-b00b-511e6cb410fe","timestamp":"2021-03-11T11:12:55Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.87c0c68c-943b-49ff-a928-8b523a0d8966","attributes":{}}}
