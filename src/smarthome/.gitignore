@@ -1,6 +1,1 @@
-node_modules
-*.zip
-package-lock.json
-package.json
 *.swp
-index.js
