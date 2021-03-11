@@ -1,0 +1,180 @@
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  553 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  480 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  484 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  484 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  483 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  474 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  474 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  475 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  500 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  486 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  556 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  506 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  514 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  484 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  474 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  483 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  473 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  484 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  472 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
+Node.JS runtime for Molecule-serverless started
+
+hello frontend
+utter: open smarthome to I love Taylor Swift
+result[0,1,2]: open smarthome to I love Taylor Swift, open, smarthome to I love Taylor Swift
+skill: smarthome to I love Taylor Swift
+frontend exe costs:  481 us
+invoke fianally
+result: {"skill":"smarthome","utter":"open smarthome to I love Taylor Swift"}
