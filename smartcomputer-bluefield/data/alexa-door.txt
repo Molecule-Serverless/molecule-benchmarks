@@ -1,0 +1,10 @@
+door exe costs:  31591 us
+door exe costs:  31288 us
+door exe costs:  31583 us
+door exe costs:  31508 us
+door exe costs:  31485 us
+door exe costs:  31376 us
+door exe costs:  31636 us
+door exe costs:  31431 us
+door exe costs:  31385 us
+door exe costs:  31578 us

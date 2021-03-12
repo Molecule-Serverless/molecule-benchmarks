@@ -1,0 +1,10 @@
+light exe costs:  31522 us
+light exe costs:  31282 us
+light exe costs:  31485 us
+light exe costs:  31429 us
+light exe costs:  31477 us
+light exe costs:  31418 us
+light exe costs:  31694 us
+light exe costs:  31421 us
+light exe costs:  31470 us
+light exe costs:  31663 us

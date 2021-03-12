@@ -1,0 +1,350 @@
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31591 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31288 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31583 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31508 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31485 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31376 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31636 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31431 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31385 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}
+Node.JS runtime for Molecule-serverless started
+
+args in door-index :{ context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'LaunchRequest' },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.2bbe5504-dcc3-4239-9518-28d0e91457b6' } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'LaunchRequest' }
+door exe costs:  31578 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.532b9a7f-5dcb-4d3b-a366-740e095ddcf5","timestamp":"2021-03-11T10:23:19Z","type":"LaunchRequest"}

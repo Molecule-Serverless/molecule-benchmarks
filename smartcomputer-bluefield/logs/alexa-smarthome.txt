@@ -1,0 +1,640 @@
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31492 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.6b57cbc6-c349-446c-bd29-7f4a9a05bbae',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.b5264548-b9fc-4392-836e-45a077aab663',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.3ad707a7-adbe-43cf-9e27-64e60beade1b',
+        timestamp: '2021-03-12T02:13:50Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.b5264548-b9fc-4392-836e-45a077aab663' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31317 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.180d4949-0901-4f86-927c-eaaeb9f74a3f',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.881f7ba7-c03e-4d27-9ad0-0f4fd3a60de4',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.11a8419b-1d2f-4869-a471-3e2e38d29233',
+        timestamp: '2021-03-12T02:13:51Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.881f7ba7-c03e-4d27-9ad0-0f4fd3a60de4' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31249 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.c771ab56-ea92-464f-9e04-3f9c6cec734c',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.251a6fdc-fcc5-44be-9c64-fcb4fe4ea150',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.abaf4c27-b9c7-4a72-9705-d651f3ffdfcc',
+        timestamp: '2021-03-12T02:13:52Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.251a6fdc-fcc5-44be-9c64-fcb4fe4ea150' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31304 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.32a49165-bad8-4d4f-8c98-b9a7498ac4bb',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.d47bef1d-0589-419c-aed2-29880cf5701d',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.1e1d1a91-f21c-4a25-a85c-774ecebb5395',
+        timestamp: '2021-03-12T02:13:52Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.d47bef1d-0589-419c-aed2-29880cf5701d' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31570 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.597603ee-64d2-40ac-bf85-bc886ce439f9',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.c839b7ae-14ab-4a68-8806-9f9d643eeadf',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.7df92b82-8f19-45dd-bca3-b25c7ced4537',
+        timestamp: '2021-03-12T02:13:53Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.c839b7ae-14ab-4a68-8806-9f9d643eeadf' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31431 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.76b0e33b-ff4f-4bf5-8f66-1231fc4e05e5',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.1e9a746a-169e-462d-8807-2e7ccc138ccf',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.54c1e07b-92dd-412f-b64c-d307c57616d5',
+        timestamp: '2021-03-12T02:13:54Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.1e9a746a-169e-462d-8807-2e7ccc138ccf' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31164 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.29cc6a30-7302-4037-a529-04ebc0787406',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.3dabccf5-4b76-49ed-ae5f-ff98e6582d27',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.f1eaa82e-f0c8-49dd-9cb6-5606c4a9a5c0',
+        timestamp: '2021-03-12T02:13:54Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.3dabccf5-4b76-49ed-ae5f-ff98e6582d27' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31249 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.fb9070f7-ac52-4cbb-b045-f5fd502365cf',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.d59e4e59-5ef8-4625-8cfa-e5a184fa0aac',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.3fec8b3d-339d-417b-b225-fe3ad1e18b07',
+        timestamp: '2021-03-12T02:13:55Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.d59e4e59-5ef8-4625-8cfa-e5a184fa0aac' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31228 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.bec17ec6-d75f-4284-82b6-c78812cd3b8c',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.541cb231-f2ce-41f1-85fd-24e13f51a983',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.74a1d371-b868-473c-9b05-cd3f6cfab505',
+        timestamp: '2021-03-12T02:13:56Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.541cb231-f2ce-41f1-85fd-24e13f51a983' } } }
+smarthome invoke result.response: undefined
+Node.JS runtime for Molecule-serverless started
+
+in i18n envelop : { context: { System: { application: {} } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+     timestamp: '2021-03-11T10:23:19Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots: { password: { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: {},
+     new: true,
+     sessionId: 'SessionID.f061d76a-ce58-45e3-be52-d839d91e1a17',
+     attributes: {} } }
+in i18n request : { locale: 'en-US',
+  requestId:
+   'amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a',
+  timestamp: '2021-03-11T10:23:19Z',
+  type: 'IntentRequest',
+  intent:
+   { name: 'EnterHomeIntent',
+     slots: { password: { name: 'password', value: 'Taylor Swift' } } } }
+smarthome exe costs:  31537 us
+invoke fianally
+result: {}
+request: {"locale":"en-US","requestId":"amzn1.echo-external.request.c2ac317f-ed36-4c8f-90a3-23723ad0ea2a","timestamp":"2021-03-11T10:23:19Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}}
+enterRequest: SkillRequest {
+  context:
+   SkillContext {
+     _apiAccessToken:
+      'virtualAlexa.accessToken.7fee48e4-1931-418d-a0a5-f3fd9364a894',
+     _apiEndpoint: 'https://api.amazonalexa.com',
+     _interactionModel:
+      InteractionModel {
+        slotTypes: SlotTypes { types: [ [NumberSlotType], [length]: 1 ] },
+        sampleUtterances:
+         SampleUtterances {
+           samples: { EnterHomeIntent: [Array] },
+           _interactionModel: [Circular] },
+        intentSchema: IntentSchema { schemaJSON: { intents: [Array] } } },
+     _locale: 'en-US',
+     _session:
+      SkillSession {
+        _id: 'SessionID.59182746-bc8c-4541-82b1-024f516c12ac',
+        _new: true,
+        _attributes: {} } },
+  _json:
+   { context: { System: { application: { applicationId: undefined } } },
+     request:
+      { locale: 'en-US',
+        requestId:
+         'amzn1.echo-external.request.a982d81a-ab7f-4ef2-836e-ccff42b25917',
+        timestamp: '2021-03-12T02:13:56Z',
+        type: 'LaunchRequest' },
+     version: '1.0',
+     session:
+      { application: { applicationId: undefined },
+        new: true,
+        sessionId: 'SessionID.59182746-bc8c-4541-82b1-024f516c12ac' } } }
+smarthome invoke result.response: undefined
