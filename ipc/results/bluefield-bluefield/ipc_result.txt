@@ -1,0 +1,303 @@
+Callee:
+[Results] exe (handler) costs:  30626 us
+[Results] exe (handler) costs:  7084 us
+[Results] exe (handler) costs:  5240 us
+[Results] exe (handler) costs:  5120 us
+[Results] exe (handler) costs:  5166 us
+[Results] exe (handler) costs:  5076 us
+[Results] exe (handler) costs:  5170 us
+[Results] exe (handler) costs:  5168 us
+[Results] exe (handler) costs:  5131 us
+[Results] exe (handler) costs:  5201 us
+[Results] exe (handler) costs:  5472 us
+[Results] exe (handler) costs:  5253 us
+[Results] exe (handler) costs:  5201 us
+[Results] exe (handler) costs:  5143 us
+[Results] exe (handler) costs:  5292 us
+[Results] exe (handler) costs:  5113 us
+[Results] exe (handler) costs:  5171 us
+[Results] exe (handler) costs:  5170 us
+[Results] exe (handler) costs:  8641 us
+[Results] exe (handler) costs:  5053 us
+[Results] exe (handler) costs:  4843 us
+[Results] exe (handler) costs:  4985 us
+[Results] exe (handler) costs:  4747 us
+[Results] exe (handler) costs:  4802 us
+[Results] exe (handler) costs:  4941 us
+[Results] exe (handler) costs:  4762 us
+[Results] exe (handler) costs:  4748 us
+[Results] exe (handler) costs:  4767 us
+[Results] exe (handler) costs:  4824 us
+[Results] exe (handler) costs:  11828 us
+[Results] exe (handler) costs:  4477 us
+[Results] exe (handler) costs:  4275 us
+[Results] exe (handler) costs:  4128 us
+[Results] exe (handler) costs:  11773 us
+[Results] exe (handler) costs:  7428 us
+[Results] exe (handler) costs:  4447 us
+[Results] exe (handler) costs:  4320 us
+[Results] exe (handler) costs:  4224 us
+[Results] exe (handler) costs:  4506 us
+[Results] exe (handler) costs:  4249 us
+[Results] exe (handler) costs:  6849 us
+[Results] exe (handler) costs:  4588 us
+[Results] exe (handler) costs:  4380 us
+[Results] exe (handler) costs:  4307 us
+[Results] exe (handler) costs:  7881 us
+[Results] exe (handler) costs:  4319 us
+[Results] exe (handler) costs:  4082 us
+[Results] exe (handler) costs:  4284 us
+[Results] exe (handler) costs:  4288 us
+[Results] exe (handler) costs:  4227 us
+[Results] exe (handler) costs:  4129 us
+[Results] exe (handler) costs:  4087 us
+[Results] exe (handler) costs:  4111 us
+[Results] exe (handler) costs:  12740 us
+[Results] exe (handler) costs:  4224 us
+[Results] exe (handler) costs:  4063 us
+[Results] exe (handler) costs:  3966 us
+[Results] exe (handler) costs:  3990 us
+[Results] exe (handler) costs:  4225 us
+[Results] exe (handler) costs:  4087 us
+[Results] exe (handler) costs:  5567 us
+[Results] exe (handler) costs:  4139 us
+[Results] exe (handler) costs:  3968 us
+[Results] exe (handler) costs:  3948 us
+[Results] exe (handler) costs:  4041 us
+[Results] exe (handler) costs:  4063 us
+[Results] exe (handler) costs:  3989 us
+[Results] exe (handler) costs:  4003 us
+[Results] exe (handler) costs:  3964 us
+[Results] exe (handler) costs:  4018 us
+[Results] exe (handler) costs:  3962 us
+[Results] exe (handler) costs:  3982 us
+[Results] exe (handler) costs:  3991 us
+[Results] exe (handler) costs:  3903 us
+[Results] exe (handler) costs:  7162 us
+[Results] exe (handler) costs:  4070 us
+[Results] exe (handler) costs:  4007 us
+[Results] exe (handler) costs:  3954 us
+[Results] exe (handler) costs:  4073 us
+[Results] exe (handler) costs:  7042 us
+[Results] exe (handler) costs:  4125 us
+[Results] exe (handler) costs:  4236 us
+[Results] exe (handler) costs:  4074 us
+[Results] exe (handler) costs:  4027 us
+[Results] exe (handler) costs:  3923 us
+[Results] exe (handler) costs:  6525 us
+[Results] exe (handler) costs:  4220 us
+[Results] exe (handler) costs:  3981 us
+[Results] exe (handler) costs:  3984 us
+[Results] exe (handler) costs:  4008 us
+[Results] exe (handler) costs:  3938 us
+[Results] exe (handler) costs:  3925 us
+[Results] exe (handler) costs:  3962 us
+[Results] exe (handler) costs:  4009 us
+[Results] exe (handler) costs:  4020 us
+[Results] exe (handler) costs:  3976 us
+[Results] exe (handler) costs:  3934 us
+[Results] exe (handler) costs:  3816 us
+[Results] exe (handler) costs:  5370 us
+[Results] exe (handler) costs:  3892 us
+
+Caller:
+[Results] callee comm (round-trip) + exe (callee) costs:  144528 us
+[Results] exe (handler) costs:  157624 us
+[Results] callee comm (round-trip) + exe (callee) costs:  21121 us
+[Results] exe (handler) costs:  24844 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12912 us
+[Results] exe (handler) costs:  16101 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12580 us
+[Results] exe (handler) costs:  15703 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12869 us
+[Results] exe (handler) costs:  15947 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12582 us
+[Results] exe (handler) costs:  15678 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12690 us
+[Results] exe (handler) costs:  15755 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12628 us
+[Results] exe (handler) costs:  15700 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12593 us
+[Results] exe (handler) costs:  15683 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12760 us
+[Results] exe (handler) costs:  15803 us
+[Results] callee comm (round-trip) + exe (callee) costs:  14210 us
+[Results] exe (handler) costs:  17533 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12798 us
+[Results] exe (handler) costs:  15988 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12634 us
+[Results] exe (handler) costs:  15804 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12597 us
+[Results] exe (handler) costs:  15763 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12922 us
+[Results] exe (handler) costs:  15998 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12716 us
+[Results] exe (handler) costs:  15784 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12682 us
+[Results] exe (handler) costs:  15757 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12798 us
+[Results] exe (handler) costs:  15864 us
+[Results] callee comm (round-trip) + exe (callee) costs:  16380 us
+[Results] exe (handler) costs:  19587 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12813 us
+[Results] exe (handler) costs:  16010 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12335 us
+[Results] exe (handler) costs:  15470 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12510 us
+[Results] exe (handler) costs:  15575 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12230 us
+[Results] exe (handler) costs:  15303 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12345 us
+[Results] exe (handler) costs:  15397 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12445 us
+[Results] exe (handler) costs:  15541 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12186 us
+[Results] exe (handler) costs:  15417 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12104 us
+[Results] exe (handler) costs:  15236 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12227 us
+[Results] exe (handler) costs:  15287 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12186 us
+[Results] exe (handler) costs:  15236 us
+[Results] callee comm (round-trip) + exe (callee) costs:  19866 us
+[Results] exe (handler) costs:  26651 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12881 us
+[Results] exe (handler) costs:  16001 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11415 us
+[Results] exe (handler) costs:  14381 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11295 us
+[Results] exe (handler) costs:  14320 us
+[Results] callee comm (round-trip) + exe (callee) costs:  19805 us
+[Results] exe (handler) costs:  22929 us
+[Results] callee comm (round-trip) + exe (callee) costs:  19912 us
+[Results] exe (handler) costs:  23099 us
+[Results] callee comm (round-trip) + exe (callee) costs:  13255 us
+[Results] exe (handler) costs:  16211 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11593 us
+[Results] exe (handler) costs:  14533 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11480 us
+[Results] exe (handler) costs:  21756 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12320 us
+[Results] exe (handler) costs:  15254 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11527 us
+[Results] exe (handler) costs:  14417 us
+[Results] callee comm (round-trip) + exe (callee) costs:  21605 us
+[Results] exe (handler) costs:  24915 us
+[Results] callee comm (round-trip) + exe (callee) costs:  14778 us
+[Results] exe (handler) costs:  18522 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11963 us
+[Results] exe (handler) costs:  14880 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12009 us
+[Results] exe (handler) costs:  14791 us
+[Results] callee comm (round-trip) + exe (callee) costs:  15957 us
+[Results] exe (handler) costs:  19091 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12380 us
+[Results] exe (handler) costs:  15238 us
+[Results] callee comm (round-trip) + exe (callee) costs:  18977 us
+[Results] exe (handler) costs:  21841 us
+[Results] callee comm (round-trip) + exe (callee) costs:  17065 us
+[Results] exe (handler) costs:  19888 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12307 us
+[Results] exe (handler) costs:  17153 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11909 us
+[Results] exe (handler) costs:  14501 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11466 us
+[Results] exe (handler) costs:  14015 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11483 us
+[Results] exe (handler) costs:  14042 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11380 us
+[Results] exe (handler) costs:  13992 us
+[Results] callee comm (round-trip) + exe (callee) costs:  20318 us
+[Results] exe (handler) costs:  22989 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12329 us
+[Results] exe (handler) costs:  15018 us
+[Results] callee comm (round-trip) + exe (callee) costs:  13903 us
+[Results] exe (handler) costs:  16538 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12876 us
+[Results] exe (handler) costs:  15576 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11244 us
+[Results] exe (handler) costs:  13832 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11926 us
+[Results] exe (handler) costs:  14290 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12910 us
+[Results] exe (handler) costs:  15225 us
+[Results] callee comm (round-trip) + exe (callee) costs:  18404 us
+[Results] exe (handler) costs:  20797 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11888 us
+[Results] exe (handler) costs:  14268 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11294 us
+[Results] exe (handler) costs:  13546 us
+[Results] callee comm (round-trip) + exe (callee) costs:  10936 us
+[Results] exe (handler) costs:  13185 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11433 us
+[Results] exe (handler) costs:  13672 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11089 us
+[Results] exe (handler) costs:  13291 us
+[Results] callee comm (round-trip) + exe (callee) costs:  10996 us
+[Results] exe (handler) costs:  13286 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12670 us
+[Results] exe (handler) costs:  14983 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11199 us
+[Results] exe (handler) costs:  13487 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11282 us
+[Results] exe (handler) costs:  13555 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11139 us
+[Results] exe (handler) costs:  13393 us
+[Results] callee comm (round-trip) + exe (callee) costs:  10937 us
+[Results] exe (handler) costs:  13204 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11036 us
+[Results] exe (handler) costs:  13282 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12478 us
+[Results] exe (handler) costs:  14799 us
+[Results] callee comm (round-trip) + exe (callee) costs:  19114 us
+[Results] exe (handler) costs:  21661 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12562 us
+[Results] exe (handler) costs:  14847 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11071 us
+[Results] exe (handler) costs:  13344 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11008 us
+[Results] exe (handler) costs:  13252 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12181 us
+[Results] exe (handler) costs:  16727 us
+[Results] callee comm (round-trip) + exe (callee) costs:  19400 us
+[Results] exe (handler) costs:  21878 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12502 us
+[Results] exe (handler) costs:  14822 us
+[Results] callee comm (round-trip) + exe (callee) costs:  16023 us
+[Results] exe (handler) costs:  19281 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11850 us
+[Results] exe (handler) costs:  14426 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11339 us
+[Results] exe (handler) costs:  13912 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11681 us
+[Results] exe (handler) costs:  17521 us
+[Results] callee comm (round-trip) + exe (callee) costs:  14242 us
+[Results] exe (handler) costs:  16665 us
+[Results] callee comm (round-trip) + exe (callee) costs:  15547 us
+[Results] exe (handler) costs:  18653 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11288 us
+[Results] exe (handler) costs:  13766 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11233 us
+[Results] exe (handler) costs:  13717 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11376 us
+[Results] exe (handler) costs:  13689 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11212 us
+[Results] exe (handler) costs:  13537 us
+[Results] callee comm (round-trip) + exe (callee) costs:  13224 us
+[Results] exe (handler) costs:  15524 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12323 us
+[Results] exe (handler) costs:  14703 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11970 us
+[Results] exe (handler) costs:  14387 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11428 us
+[Results] exe (handler) costs:  13766 us
+[Results] callee comm (round-trip) + exe (callee) costs:  15856 us
+[Results] exe (handler) costs:  18182 us
+[Results] callee comm (round-trip) + exe (callee) costs:  11468 us
+[Results] exe (handler) costs:  13803 us
+[Results] callee comm (round-trip) + exe (callee) costs:  10938 us
+[Results] exe (handler) costs:  13212 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12783 us
+[Results] exe (handler) costs:  15092 us
+[Results] callee comm (round-trip) + exe (callee) costs:  12087 us
+[Results] exe (handler) costs:  14432 us
