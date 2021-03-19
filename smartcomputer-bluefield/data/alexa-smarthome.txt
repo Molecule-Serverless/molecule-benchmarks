@@ -1,0 +1,10 @@
+smarthome exe costs:  31492 us
+smarthome exe costs:  31317 us
+smarthome exe costs:  31249 us
+smarthome exe costs:  31304 us
+smarthome exe costs:  31570 us
+smarthome exe costs:  31431 us
+smarthome exe costs:  31164 us
+smarthome exe costs:  31249 us
+smarthome exe costs:  31228 us
+smarthome exe costs:  31537 us

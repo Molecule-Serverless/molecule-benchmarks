@@ -1,0 +1,380 @@
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+error in require code:Error: Cannot find module 'virtual-core'
+{ Error: Cannot find module 'virtual-core'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/src/interact/infra/model/InteractionModel.js:14:19)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3) code: 'MODULE_NOT_FOUND' }
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.14fbedd5-3baf-4d5b-aae2-3aad2e5031e4',
+     timestamp: '2021-03-11T13:50:42Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.972d201d-9c14-460d-a620-b437bdda2e68',
+     attributes: {} } }
+interact exe costs:  4932 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.14fbedd5-3baf-4d5b-aae2-3aad2e5031e4","timestamp":"2021-03-11T13:50:42Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.972d201d-9c14-460d-a620-b437bdda2e68","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.35935e62-aef2-4f35-b5ca-03df68897538',
+     timestamp: '2021-03-11T13:50:42Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.d0e0ef9e-c3bc-45b3-bc73-ef4aab42aab3',
+     attributes: {} } }
+interact exe costs:  5084 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.35935e62-aef2-4f35-b5ca-03df68897538","timestamp":"2021-03-11T13:50:42Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.d0e0ef9e-c3bc-45b3-bc73-ef4aab42aab3","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.d8509b3a-5856-4333-8680-132b29635030',
+     timestamp: '2021-03-11T13:50:43Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.d515787c-7aba-416a-b41a-ad80b7462a4c',
+     attributes: {} } }
+interact exe costs:  4923 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.d8509b3a-5856-4333-8680-132b29635030","timestamp":"2021-03-11T13:50:43Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.d515787c-7aba-416a-b41a-ad80b7462a4c","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.82d08e39-a0a9-45e4-a717-8e1283548eb2',
+     timestamp: '2021-03-11T13:50:43Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.27ee3585-2669-4929-bc52-25a800374ea8',
+     attributes: {} } }
+interact exe costs:  4954 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.82d08e39-a0a9-45e4-a717-8e1283548eb2","timestamp":"2021-03-11T13:50:43Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.27ee3585-2669-4929-bc52-25a800374ea8","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.74c5d6cd-8493-4f82-9f4f-cd55289fe475',
+     timestamp: '2021-03-11T13:50:43Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.6367494a-5b52-4842-a66b-4a0cab2ac28a',
+     attributes: {} } }
+interact exe costs:  4884 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.74c5d6cd-8493-4f82-9f4f-cd55289fe475","timestamp":"2021-03-11T13:50:43Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.6367494a-5b52-4842-a66b-4a0cab2ac28a","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.573c67d5-fbe6-4f03-9e38-5cb82dd740ed',
+     timestamp: '2021-03-11T13:50:43Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.404fc875-1a6c-4b1f-9c51-1742116afda3',
+     attributes: {} } }
+interact exe costs:  4932 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.573c67d5-fbe6-4f03-9e38-5cb82dd740ed","timestamp":"2021-03-11T13:50:43Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.404fc875-1a6c-4b1f-9c51-1742116afda3","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.a64a7597-4eff-45d0-96a0-7585357c4164',
+     timestamp: '2021-03-11T13:50:43Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.33e5a9a1-f137-47f0-8b1d-5ede16303dda',
+     attributes: {} } }
+interact exe costs:  4893 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.a64a7597-4eff-45d0-96a0-7585357c4164","timestamp":"2021-03-11T13:50:43Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.33e5a9a1-f137-47f0-8b1d-5ede16303dda","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.8db5521d-d2a7-4b56-b019-7558ed2d9b28',
+     timestamp: '2021-03-11T13:50:43Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.11b1c0d7-edc8-487a-b6b0-65be776587a9',
+     attributes: {} } }
+interact exe costs:  4914 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.8db5521d-d2a7-4b56-b019-7558ed2d9b28","timestamp":"2021-03-11T13:50:43Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.11b1c0d7-edc8-487a-b6b0-65be776587a9","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.2ba1e528-1fe8-478b-b75b-5f07a35a42f3',
+     timestamp: '2021-03-11T13:50:43Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.ee7daf91-c329-4899-a2b4-7e0130eb580b',
+     attributes: {} } }
+interact exe costs:  4950 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.2ba1e528-1fe8-478b-b75b-5f07a35a42f3","timestamp":"2021-03-11T13:50:43Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.ee7daf91-c329-4899-a2b4-7e0130eb580b","attributes":{}}}
+Node.JS runtime for Molecule-serverless started
+
+skill: smarthome , utter: open smarthome to I love Taylor Swift
+slotName: password slotValue: Taylor Swift intent.name: EnterHomeIntent
+interact result :{ context: { System: { application: { applicationId: undefined } } },
+  request:
+   { locale: 'en-US',
+     requestId:
+      'amzn1.echo-external.request.42d91ea3-6984-4509-8818-aba9de160c2f',
+     timestamp: '2021-03-11T13:50:43Z',
+     type: 'IntentRequest',
+     intent:
+      { name: 'EnterHomeIntent',
+        slots:
+         { password: SlotValue { name: 'password', value: 'Taylor Swift' } } } },
+  version: '1.0',
+  session:
+   { application: { applicationId: undefined },
+     new: true,
+     sessionId: 'SessionID.102a599c-ab62-4807-9837-808cc7bee4da',
+     attributes: {} } }
+interact exe costs:  4929 us
+invoke fianally
+result: {"context":{"System":{"application":{}}},"request":{"locale":"en-US","requestId":"amzn1.echo-external.request.42d91ea3-6984-4509-8818-aba9de160c2f","timestamp":"2021-03-11T13:50:43Z","type":"IntentRequest","intent":{"name":"EnterHomeIntent","slots":{"password":{"name":"password","value":"Taylor Swift"}}}},"version":"1.0","session":{"application":{},"new":true,"sessionId":"SessionID.102a599c-ab62-4807-9837-808cc7bee4da","attributes":{}}}

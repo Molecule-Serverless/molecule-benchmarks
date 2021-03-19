@@ -1,0 +1,10 @@
+interact exe costs:  4932 us
+interact exe costs:  5084 us
+interact exe costs:  4923 us
+interact exe costs:  4954 us
+interact exe costs:  4884 us
+interact exe costs:  4932 us
+interact exe costs:  4893 us
+interact exe costs:  4914 us
+interact exe costs:  4950 us
+interact exe costs:  4929 us

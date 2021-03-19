@@ -1,0 +1,10 @@
+frontend exe costs:  3263 us
+frontend exe costs:  2725 us
+frontend exe costs:  2692 us
+frontend exe costs:  2717 us
+frontend exe costs:  2735 us
+frontend exe costs:  2699 us
+frontend exe costs:  2747 us
+frontend exe costs:  2715 us
+frontend exe costs:  2680 us
+frontend exe costs:  2714 us
