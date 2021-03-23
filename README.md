@@ -52,6 +52,8 @@ for arm env, the script should be:
 4. Run single-func tests
 
 commands:
+
+
 	# in molecule-bench dir, enter the docker env
 	./docker_run.sh
 
