@@ -21,6 +21,8 @@ Currently supported apps:
 
 1. Download the molecule-benchmarks and js-env
 
+commands:
+
 	git clone https://ipads.se.sjtu.edu.cn:1312/heros/molecule/molecule-benchmarks.git
 	git clone https://ipads.se.sjtu.edu.cn:1312/heros/molecule/molecule-js-env.git
 	# checkout to single-func branch in molecule-js-env
@@ -29,6 +31,8 @@ Currently supported apps:
 We use the name, *home-dir*, to represent the directory containing molecule-benchmarks and molecule-js-env.
 
 2. Preparation
+
+commands:
 
 	cd home-dir/molecule-js-env
 	# download proto
@@ -47,6 +51,7 @@ for arm env, the script should be:
 
 4. Run single-func tests
 
+commands:
 	# in molecule-bench dir, enter the docker env
 	./docker_run.sh
 
