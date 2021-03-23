@@ -29,6 +29,7 @@ Currently supported apps:
 We use the name, *home-dir*, to represent the directory containing molecule-benchmarks and molecule-js-env.
 
 2. Preparation
+
 	cd home-dir/molecule-js-env
 	# download proto
 	git submodule update --init --recursive
@@ -45,6 +46,7 @@ for arm env, the script should be:
 
 
 4. Run single-func tests
+
 	# in molecule-bench dir, enter the docker env
 	./docker_run.sh
 
