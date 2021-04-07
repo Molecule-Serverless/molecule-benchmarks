@@ -7,6 +7,13 @@ It contains:
 - ipc: evaluate IPC performance between two fn
 
 
+**Notes**:
+
+Each test category should have its own directory.
+And the directory contains the running scripts, readme, and results/
+
+
+
 
 Following contains the detailed instructions to run the tests
 
