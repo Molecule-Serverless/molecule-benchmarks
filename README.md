@@ -51,9 +51,11 @@ for x86 env, the scirpt should be:
 
 	docker run --rm -it -v $(pwd):/home -v $(pwd)/../molecule-js-env/src:/env --entrypoint=/bin/bash registry.cn-shanghai.aliyuncs.com/jointfaas-serverless/env-javascript:v6.1
 
+Updates, you can also use the new docker images: ddnirvana/molecule-js-env:v3-node14.16.0
+
 for arm env, the script should be:
 
-	docker run --rm -it -v $(pwd):/home -v $(pwd)/../molecule-js-env/src:/env --entrypoint=/bin/bash ddnirvana/molecule-js-env:arm-v2
+	docker run --rm -it -v $(pwd):/home -v $(pwd)/../molecule-js-env/src:/env --entrypoint=/bin/bash ddnirvana/molecule-js-env:v3-node14.16.0-arm
 
 
 4. Run single-func tests
