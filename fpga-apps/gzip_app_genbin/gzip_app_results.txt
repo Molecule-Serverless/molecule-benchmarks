@@ -1,0 +1,75 @@
+E2E(MBps)		:79.659
+ZLIB_CR			:3.16
+File Size(MB)		:2.560
+File Name		:small_file.txt
+
+Output Location: small_file.txt.gz
+
+real	0m0.354s
+user	0m0.237s
+sys	0m0.081s
+Note: we should remove the 0.339s costs as the startup latency
+FPGA: small file (1.3KB)
+E2E(MBps)		:84.838
+ZLIB_CR			:3.16
+File Size(MB)		:2.560
+File Name		:small_file.txt
+
+Output Location: small_file.txt.gz
+
+real	0m0.318s
+user	0m0.229s
+sys	0m0.071s
+FPGA: mid file (2.5MB)
+E2E(MBps)		:493.314
+ZLIB_CR			:3.15
+File Size(MB)		:25.601
+File Name		:mid_file.txt
+
+Output Location: mid_file.txt.gz
+
+real	0m0.375s
+user	0m0.226s
+sys	0m0.115s
+FPGA: huge file (2.5MB)
+E2E(MBps)		:689.819
+ZLIB_CR			:3.15
+File Size(MB)		:51.201
+File Name		:huge_file.txt
+
+Output Location: huge_file.txt.gz
+
+real	0m0.438s
+user	0m0.227s
+sys	0m0.151s
+FPGA: Linux file (112MB)
+E2E(MBps)		:337.688
+ZLIB_CR			:1.00
+File Size(MB)		:116.402
+File Name		:linux-5.10.55.tar.xz
+
+Output Location: linux-5.10.55.tar.xz.gz
+
+real	0m1.026s
+user	0m0.248s
+sys	0m0.335s
+CPU: small file (1.3KB)
+
+real	0m0.138s
+user	0m0.136s
+sys	0m0.002s
+CPU: mid file (2.5MB)
+
+real	0m1.320s
+user	0m1.306s
+sys	0m0.014s
+CPU: huge file (2.5MB)
+
+real	0m2.817s
+user	0m2.785s
+sys	0m0.032s
+CPU: Linux file (112MB)
+
+real	0m4.767s
+user	0m4.421s
+sys	0m0.176s
