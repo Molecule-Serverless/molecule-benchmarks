@@ -5,7 +5,7 @@ mkdir test_env
 cd test_env
 
 mkdir -p rootfs
-sudo docker export `docker create ddnirvana/molecule-ae-fpga-bench:latest` | sudo tar -C ./rootfs -xf -
+sudo docker export `sudo docker create ddnirvana/molecule-ae-fpga-bench:latest` | sudo tar -C ./rootfs -xf -
 
 cp ../scripts/gzip_small_config.json ./config.json
 
