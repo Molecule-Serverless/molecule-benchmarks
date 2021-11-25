@@ -32,12 +32,12 @@ echo "Function-bench Tests"
 # ./app_base_build.sh ../../functionBench/molecule/matmul
 pushd ../../forkable-python-runtime/scripts > /dev/null
 
-#run_test LinPack linpack
-#run_test Chameleon chameleon
+run_test LinPack linpack
+run_test Chameleon chameleon
 run_test Matmul matmul
-#run_test PyAES pyaes
+run_test PyAES pyaes
 run_test DD dd
 run_test Gzip-comprssion gzip-compression
-#run_test_long Video-Processing video-processing
+run_test_long Video-Processing video-processing
 
 popd
