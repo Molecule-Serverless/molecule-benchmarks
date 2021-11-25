@@ -2,79 +2,27 @@
 
 This is the repo for molecule benchmarks.
 
-It contains:
-- single-func bench: evaluate single func execution costs
-- ipc: evaluate IPC performance between two fn
-
-
-**Notes**:
-
-Each test category should have its own directory.
-And the directory contains the running scripts, readme, and results/
-
-
-
-
 Following contains the detailed instructions to run the tests
 
 ## Single-Func
 
-In this case, we will use the single-func runtime to run a single function, to evaluate each function execution costs.
+In this case, we will use the single-func runtime to run a single function,
+to evaluate each function execution costs.
 
-Currently supported apps:
-- alexa.
+Used workloads:
+- Alexa function chain: we will evaluate the each function of Alexa one-by-one
 
 ### Instructions
 
-1. Download the molecule-benchmarks and js-env
+To build:
 
-commands:
+	./single-func/docker_build.sh
 
-	git clone https://ipads.se.sjtu.edu.cn:1312/heros/molecule/molecule-benchmarks.git
-	git clone https://ipads.se.sjtu.edu.cn:1312/heros/molecule/molecule-js-env.git
-	# checkout to single-func branch in molecule-js-env
-	cd molecule-js-env && git checkout single-func && cd ..
+To run:
 
-We use the name, *home-dir*, to represent the directory containing molecule-benchmarks and molecule-js-env.
-
-2. Preparation
-
-commands:
-
-	cd home-dir/molecule-js-env
-	# download proto
-	git submodule update --init --recursive
-
-3. Check docker_run.sh scripts
-
-for x86 env, the scirpt should be:
-
-	docker run --rm -it -v $(pwd):/home -v $(pwd)/../molecule-js-env/src:/env --entrypoint=/bin/bash registry.cn-shanghai.aliyuncs.com/jointfaas-serverless/env-javascript:v6.1
-
-Updates, you can also use the new docker images: ddnirvana/molecule-js-env:v3-node14.16.0
-
-for arm env, the script should be:
-
-	docker run --rm -it -v $(pwd):/home -v $(pwd)/../molecule-js-env/src:/env --entrypoint=/bin/bash ddnirvana/molecule-js-env:v3-node14.16.0-arm
-
-
-4. Run single-func tests
-
-commands:
-
-
-	# in molecule-bench dir, enter the docker env
-	./docker_run.sh
-
-	#in the /env dir, if the node_modules is empty, execute the following instructiosn
-	#it happens for 1st installation
-	npm install
-
-	# in /env in the docker environment
-	./test_single_func_exec.sh
+	./single-func/docker_run.sh
 
 The script will execute test cases and write data/log to a directory named results/.
-
 The script will run all alexa functions, to run individual, please read the script and comment some cases.
 
 
