@@ -32,9 +32,7 @@ echo "Function-bench Tests"
 # ./app_base_build.sh ../../functionBench/molecule/matmul
 pushd ../../forkable-python-runtime/scripts > /dev/null
 
-sudo rm -rf ~/.base/container0
-sudo rm -rf ~/.base/spin0
-sudo rm -rf ~/.base/baseline
+sudo rm -rf ~/.base/
 mkdir -p ~/.base/container0
 mkdir -p ~/.base/spin0
 mkdir -p ~/.base/baseline
