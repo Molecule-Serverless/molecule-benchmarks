@@ -13,4 +13,7 @@ cp ../helloworld/helloworld_config.json ./config.json
 cp ../helloworld/func_invoker ./
 cp ../helloworld/fpga_func.awsxclbin ./
 
-../../../vsandbox-runtime/vsandbox run demo-sandbox
+echo -e "Cold Run"
+../../../vsandbox-runtime/vsandbox run demo-sandbox | grep -E 'latencies'
+echo -e "Warm Run"
+../../../vsandbox-runtime/vsandbox run demo-sandbox | grep -E 'latencies'
