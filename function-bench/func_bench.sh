@@ -32,6 +32,13 @@ echo "Function-bench Tests"
 # ./app_base_build.sh ../../functionBench/molecule/matmul
 pushd ../../forkable-python-runtime/scripts > /dev/null
 
+sudo rm -rf ~/.base/container0
+sudo rm -rf ~/.base/spin0
+sudo rm -rf ~/.base/baseline
+mkdir -p ~/.base/container0
+mkdir -p ~/.base/spin0
+mkdir -p ~/.base/baseline
+
 run_test LinPack linpack
 run_test Chameleon chameleon
 run_test Matmul matmul
