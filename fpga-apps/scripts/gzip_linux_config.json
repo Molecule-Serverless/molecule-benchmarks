@@ -9,6 +9,9 @@
 		"args": [
 			"rootfs/code/gzip_app/func_invoker", "-sx", "rootfs/code/gzip_app/fpga_func.awsxclbin", "-c", "linux-5.10.55.tar.xz"
 		],
+		"vargs": [
+			"rootfs/code/gzip_app/func_invoker -sx rootfs/code/gzip_app/fpga_func.awsxclbin -c linux-5.10.55.tar.xz"
+		],
 		"env": [
 			"PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
 			"TERM=xterm"

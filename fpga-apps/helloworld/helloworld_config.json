@@ -9,6 +9,9 @@
 		"args": [
 			"./func_invoker", "./fpga_func.awsxclbin"
 		],
+		"vargs": [
+			"./func_invoker ./fpga_func.awsxclbin"
+		],
 		"env": [
 			"PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
 			"TERM=xterm"
