@@ -19,7 +19,7 @@ echo -e "\tCPU function:"
 
 cp ../scripts/gzip_mid_config.json ./config.json
 echo ""
-echo "mid file (2.5MB)"
+echo "mid file (25MB)"
 echo -e "\tFPGA function:"
 \time -f "\t\t%E (minutes:seconds)" ../../../vsandbox-runtime/vsandbox run gzip_func | grep minutes
 echo -e "\tCPU function:"
@@ -27,7 +27,7 @@ echo -e "\tCPU function:"
 
 cp ../scripts/gzip_huge_config.json ./config.json
 echo ""
-echo "huge file (2.5MB)"
+echo "huge file (49MB)"
 echo -e "\tFPGA function:"
 \time -f "\t\t%E (minutes:seconds)" ../../../vsandbox-runtime/vsandbox run gzip_func | grep minutes
 echo -e "\tCPU function:"
