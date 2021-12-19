@@ -7,7 +7,7 @@ function prepare_img(){
 	pushd $2 > /dev/null
 
 	cd baseline-image
-	docker build -t -f ./Dockerfile-arm64 ddnirvana/molecule-ae-app-$1-base:latest-arm .
+	docker build -f ./Dockerfile-arm64 -t ddnirvana/molecule-ae-app-$1-base:latest-arm .
 	docker push ddnirvana/molecule-ae-app-$1-base:latest-arm
 
 	cd ../spin-base-image
